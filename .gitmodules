@@ -1,0 +1,3 @@
+[submodule "InstallScript"]
+	path = InstallScript
+	url = https://github.com/swift-api/InstallScript.git
